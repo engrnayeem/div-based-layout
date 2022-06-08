@@ -1,0 +1,190 @@
+/* common width classes declarations */
+
+.w-10-one{
+    width:10%;
+}
+.w-10-two{
+    width: 10px;
+}
+.w-20-one{
+    width: 20%;
+}
+.w-20-two{
+    width: 20px;
+}
+.w-25-one{
+    width:25%;
+}
+.w-25-two{
+    width:25px;
+}
+
+.w-30-one{
+    width:30%
+}
+.w-30-two{
+    width:30px;
+}
+.w-33-one{
+    width:33.33%;
+}
+.w-40-one{
+    width:40%;
+}
+.w-40-two{
+    width:40px;
+}
+.w-50-one{
+    width:50%;
+}
+.w-50-two{
+    width:50px;
+}
+
+.w-60-one{
+    width:60%;
+}
+
+.w-60-two{
+    width:60px;
+}
+
+.w-70-one{
+    width:70%;
+}
+
+.w-70-two{
+    width:70px;
+}
+
+.w-75-one{
+    width:75%;
+}
+
+.w-75-two{
+    width:75px;
+}
+
+.w-80-one{
+    width:80%;
+}
+.w-80-two{
+    width:80px;
+}
+
+.w-90-one{
+    width:90%;
+}
+
+.w-90-two{
+    width:90px;
+}
+
+.w-100-one{
+    width: 100%;
+}
+.w-100-two{
+    width:100px;
+}
+/* common height classes declarations */
+.h-10-one{
+    height:10%;
+}
+.h-10-two{
+    height: 10px;
+}
+.h-20-one{
+    height: 20%;
+}
+.h-20-two{
+    height: 20px;
+}
+.h-25-one{
+    height:25%;
+}
+.h-25-two{
+    height:25px;
+}
+
+.h-30-one{
+    height:30%
+}
+.h-30-two{
+    height:30px;
+}
+
+.h-40-one{
+    height:40%;
+}
+.h-40-two{
+    height:40px;
+}
+.h-50-one{
+    height:50%;
+}
+.h-50-two{
+    height:50px;
+}
+
+.h-60-one{
+    height:60%;
+}
+
+.h-60-two{
+    height:60px;
+}
+
+.h-70-one{
+    height:70%;
+}
+
+.h-70-two{
+    height:70px;
+}
+
+.h-75-one{
+    height:75%;
+}
+
+.h-75-two{
+    height:75px;
+}
+
+.h-80-one{
+    height:80%;
+}
+.h-80-two{
+    height:80px;
+}
+
+.h-90-one{
+    height:90%;
+}
+
+.h-90-two{
+    height:90px;
+}
+
+.h-100-one{
+    height: 100%;
+}
+.h-100-two{
+    height:100px;
+}
+
+.h-200{
+    height:200px;
+}
+.h-250{
+    height:250px;
+}
+
+.h-300{
+    height:300px;
+}
+.h-400{
+    height:400px;
+}
+.h-500{height: 500px;
+}
+
